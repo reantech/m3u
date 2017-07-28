@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:19
+#EXT-X-MEDIA-SEQUENCE:5523
+#EXTINF:2.335000,
+http://live.latino-webtv.com:8000/livexd/128_5523.ts
+#EXTINF:18.385000,
+http://live.latino-webtv.com:8000/livexd/128_5524.ts
+#EXTINF:5.439000,
+http://live.latino-webtv.com:8000/livexd/128_5525.ts
+#EXTINF:6.607000,
+http://live.latino-webtv.com:8000/livexd/128_5526.ts
+#EXTINF:11.077000,
+http://live.latino-webtv.com:8000/livexd/128_5527.ts
+#EXTINF:12.079000,
+http://live.latino-webtv.com:8000/livexd/128_5528.ts
